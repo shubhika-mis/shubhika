@@ -1,17 +1,16 @@
-# shubhika
-MIS Executive focused on data reporting, automation, and performance dashboards
-# Hi, I'm [Shubhika] 👋
+# Hi, I'm Shubhika 👋
+
+### MIS Executive | Excel Reporting & Dashboard Specialist
 
 ## 💼 About Me
-I am an MIS in data reporting, Excel dashboard development, and business performance tracking. I focus on creating structured reports that support management decision-making.
+I am an MIS Executive specializing in data reporting, Excel dashboard development, and business performance tracking. I create structured and automated reports that support management decision-making.
 
 ## 🛠 Skills
-- Microsoft Excel
+- Microsoft Excel 
 - Pivot Tables & Pivot Charts
 - Dashboard Development
 - Data Cleaning & Validation
 - MIS Reporting
-  
 
 ## 📊 Key Projects
 - Sales Performance Dashboard
@@ -26,5 +25,5 @@ I am an MIS in data reporting, Excel dashboard development, and business perform
 - Improve reporting efficiency
 
 ## 📫 Contact
-- Whatsapp : 8851211473
-- Email: [shubhikavashisht@gmail.com]
+- Email: shubhikavashisht@gmail.com
+- Linkedin : https://www.linkedin.com/in/shubhika-vashisht-7524a4230/
